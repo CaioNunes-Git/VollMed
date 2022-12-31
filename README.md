@@ -3,7 +3,7 @@
 <h4 align="center">Status do Projeto: 🚧  Em construção...  🚧 </h4>
 
 
-Recursos Utilizados
+🛠 Tecnologias Utilizadas
 =================
 <!--ts-->
    * [SpringBoot v3.0]
@@ -22,5 +22,5 @@ Recursos Utilizados
 - Cliente:<br>
     - []  Criação, leitura, atualização e deleção de cliente;
 - Consulta:<br>
-    - []  Criação, leitura, atualização e deleção de cliente,<br>
+    - []  Criação, leitura, atualização e deleção de consulta,<br>
     - []  Marcação de consulta.
