@@ -17,6 +17,7 @@
 
 
 ### Funcionalidades
+=================
 - Médico:<br>
     - [x] Criação, leitura, atualização e deleção;
 - Cliente:<br>
