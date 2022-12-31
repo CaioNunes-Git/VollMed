@@ -5,7 +5,7 @@
 
 🛠 Tecnologias Utilizadas
 =================
-<!--ts-->
+
    * [SpringBoot v3.0]
    * [Java 17]
    * [Maven]
@@ -14,7 +14,7 @@
    * [MySQL]
       * [Flyway]
    * [Postman]
-<!--te-->
+
 
 ### Funcionalidades
 - Médico:<br>
