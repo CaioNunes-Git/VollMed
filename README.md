@@ -19,10 +19,10 @@ Recursos Utilizados
 <!--te-->
 
 ### Funcionalidades
-- Médico:
+- Médico:<br>
     [x] Criação, leitura, atualização e deleção;
-- Cliente:
+- Cliente:<br>
     []  Criação, leitura, atualização e deleção de cliente;
-- Consulta:
-    []  Criação, leitura, atualização e deleção de cliente,
+- Consulta:<br>
+    []  Criação, leitura, atualização e deleção de cliente,<br>
     []  Marcação de consulta.
