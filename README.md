@@ -3,8 +3,8 @@
 <h4 align="center">Status do Projeto: 🚧  Em construção...  🚧 </h4>
 
 
-<h3>🛠 Tecnologias Utilizadas</h3>
-=================
+🛠 Tecnologias Utilizadas
+
 <!--ts-->
    * [SpringBoot v3.0]
    * [Java 17]
