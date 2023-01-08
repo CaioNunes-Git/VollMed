@@ -71,10 +71,11 @@
     - CRM, 
     - Especialidade (Ortopedia, Cardiologia, Ginecologia ou Dermatologia),
     - Endereço (logradouro, número, complemento, bairro, cidade, UF, CEP),
+    - Ativo
     
   - RF2. Ler os dados do médico:
 
 ## Regras de Negócio
-  - _RN1. Todas as informações acima são obrigatórias exceto número e complemento._
+  - _RN1. Todas as informações para o cadastro de médicos são obrigatórias exceto número e complemento._
     
   
