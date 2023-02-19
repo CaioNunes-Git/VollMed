@@ -18,8 +18,12 @@ import org.springframework.web.util.UriComponentsBuilder;
 @RequestMapping("/medicos")
 public class MedicoController {
 
+    private final MedicoRepository medicoRepository;
+
     @Autowired
-    private MedicoRepository medicoRepository;
+    public MedicoController(MedicoRepository medicoRepository) {
+        this.medicoRepository = medicoRepository;
+    }
 
     @PostMapping
     @Transactional
